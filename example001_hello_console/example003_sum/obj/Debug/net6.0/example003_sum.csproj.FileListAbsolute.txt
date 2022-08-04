@@ -1,0 +1,15 @@
+D:\IT дз\Examples\example001_hello_console\example003_sum\bin\Debug\net6.0\example003_sum.exe
+D:\IT дз\Examples\example001_hello_console\example003_sum\bin\Debug\net6.0\example003_sum.deps.json
+D:\IT дз\Examples\example001_hello_console\example003_sum\bin\Debug\net6.0\example003_sum.runtimeconfig.json
+D:\IT дз\Examples\example001_hello_console\example003_sum\bin\Debug\net6.0\example003_sum.dll
+D:\IT дз\Examples\example001_hello_console\example003_sum\bin\Debug\net6.0\example003_sum.pdb
+D:\IT дз\Examples\example001_hello_console\example003_sum\obj\Debug\net6.0\example003_sum.csproj.AssemblyReference.cache
+D:\IT дз\Examples\example001_hello_console\example003_sum\obj\Debug\net6.0\example003_sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT дз\Examples\example001_hello_console\example003_sum\obj\Debug\net6.0\example003_sum.AssemblyInfoInputs.cache
+D:\IT дз\Examples\example001_hello_console\example003_sum\obj\Debug\net6.0\example003_sum.AssemblyInfo.cs
+D:\IT дз\Examples\example001_hello_console\example003_sum\obj\Debug\net6.0\example003_sum.csproj.CoreCompileInputs.cache
+D:\IT дз\Examples\example001_hello_console\example003_sum\obj\Debug\net6.0\example003_sum.dll
+D:\IT дз\Examples\example001_hello_console\example003_sum\obj\Debug\net6.0\refint\example003_sum.dll
+D:\IT дз\Examples\example001_hello_console\example003_sum\obj\Debug\net6.0\example003_sum.pdb
+D:\IT дз\Examples\example001_hello_console\example003_sum\obj\Debug\net6.0\example003_sum.genruntimeconfig.cache
+D:\IT дз\Examples\example001_hello_console\example003_sum\obj\Debug\net6.0\ref\example003_sum.dll
