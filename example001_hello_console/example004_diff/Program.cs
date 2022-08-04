@@ -1,3 +1,12 @@
-﻿double numberA=12;
-double numberB=5;
-Console.WriteLine(numberA/numberB);
+﻿Console.Write("Введите имя пользователя");
+string username=Console.ReadLine();
+
+if(username="Маша");
+{
+    Console.WriteLine("Ура, это Маша!");
+}
+else
+{
+    Console.Write("Привет, ");
+    Console.WriteLine(username);
+}
