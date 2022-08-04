@@ -1,0 +1,5 @@
+D:\IT дз\Examples\example001_hello_console\example006_weight\obj\Debug\net6.0\example006_weight.csproj.AssemblyReference.cache
+D:\IT дз\Examples\example001_hello_console\example006_weight\obj\Debug\net6.0\example006_weight.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT дз\Examples\example001_hello_console\example006_weight\obj\Debug\net6.0\example006_weight.AssemblyInfoInputs.cache
+D:\IT дз\Examples\example001_hello_console\example006_weight\obj\Debug\net6.0\example006_weight.AssemblyInfo.cs
+D:\IT дз\Examples\example001_hello_console\example006_weight\obj\Debug\net6.0\example006_weight.csproj.CoreCompileInputs.cache
