@@ -1,0 +1,15 @@
+D:\IT дз\Examples\example001_hello_console\example004_diff\bin\Debug\net6.0\example004_diff.exe
+D:\IT дз\Examples\example001_hello_console\example004_diff\bin\Debug\net6.0\example004_diff.deps.json
+D:\IT дз\Examples\example001_hello_console\example004_diff\bin\Debug\net6.0\example004_diff.runtimeconfig.json
+D:\IT дз\Examples\example001_hello_console\example004_diff\bin\Debug\net6.0\example004_diff.dll
+D:\IT дз\Examples\example001_hello_console\example004_diff\bin\Debug\net6.0\example004_diff.pdb
+D:\IT дз\Examples\example001_hello_console\example004_diff\obj\Debug\net6.0\example004_diff.csproj.AssemblyReference.cache
+D:\IT дз\Examples\example001_hello_console\example004_diff\obj\Debug\net6.0\example004_diff.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT дз\Examples\example001_hello_console\example004_diff\obj\Debug\net6.0\example004_diff.AssemblyInfoInputs.cache
+D:\IT дз\Examples\example001_hello_console\example004_diff\obj\Debug\net6.0\example004_diff.AssemblyInfo.cs
+D:\IT дз\Examples\example001_hello_console\example004_diff\obj\Debug\net6.0\example004_diff.csproj.CoreCompileInputs.cache
+D:\IT дз\Examples\example001_hello_console\example004_diff\obj\Debug\net6.0\example004_diff.dll
+D:\IT дз\Examples\example001_hello_console\example004_diff\obj\Debug\net6.0\refint\example004_diff.dll
+D:\IT дз\Examples\example001_hello_console\example004_diff\obj\Debug\net6.0\example004_diff.pdb
+D:\IT дз\Examples\example001_hello_console\example004_diff\obj\Debug\net6.0\example004_diff.genruntimeconfig.cache
+D:\IT дз\Examples\example001_hello_console\example004_diff\obj\Debug\net6.0\ref\example004_diff.dll
